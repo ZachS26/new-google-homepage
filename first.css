@@ -1,13 +1,8 @@
-.navbar-container{
-  width: 100%;
-}
- li{
-float: right;
-list-style-type: none;
-padding: 1em;
-}
-.navbarimage {
 
+ .navbar li{
+display: inline;
+list-style-type: none;
+padding: .5em;
 }
 
 .navbartext{
@@ -16,4 +11,25 @@ padding: 1em;
 }
 .navbartext:hover{
   text-decoration: underline;
+}
+.navbar-container{
+  text-align: right;
+}
+.main-container{
+  text-align: center;
+  margin-top: 15%;
+}
+.button{
+  height: 8em;
+  width: 16em;
+  background-color: lightgrey;
+  margin-right: 1em;
+  margin-top: 5%;
+  display: inline;
+  font-size: .5em;
+  padding: 1em 8em 1em 8em;
+
+}
+.button-text{
+  margin-top: 4%;
 }
