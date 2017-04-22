@@ -32,16 +32,18 @@ padding: .5em;
   margin-top: 2%;
   display: inline;
 }
-
+.bigdiv{
+   min-height:100%;
+   position: relative;
 
 .footer{
   width:100%;
   background-color: lightgrey;
   height: 3em;
   vertical-align: middle;
-  position:relative;
+  position:absolute;
   bottom:0
- min-height: 100%;
+ 
 }
 
 
