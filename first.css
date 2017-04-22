@@ -37,9 +37,8 @@ padding: .5em;
   width:100%;
   background-color: lightgrey;
   height: 3em;
-  vertical-align: middle;
   position:absolute;
- vertical-align:bottom;
+margin-top: 18%;
 }
 
 
