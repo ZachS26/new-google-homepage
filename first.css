@@ -1,4 +1,9 @@
-
+html,
+body {
+   margin:0;
+   padding:0;
+   height:100%
+}
  .navbar li{
 display: inline;
 list-style-type: none;
@@ -28,19 +33,15 @@ padding: .5em;
   display: inline;
 }
 
-.bigdiv{
-  position: relative;
-  margin-bottom: 0;
- min-height: 100%;
 
-}
 .footer{
   width:100%;
   background-color: lightgrey;
   height: 3em;
   vertical-align: middle;
   position:relative;
-  margin-bottom: 0;
+  bottom:0
+ min-height: 100%;
 }
 
 
