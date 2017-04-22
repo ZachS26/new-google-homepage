@@ -1,4 +1,4 @@
-.navbar li{
+ .navbar li{
 display: inline;
 list-style-type: none;
 padding: .5em;
@@ -38,7 +38,7 @@ padding: .5em;
   height: 3em;
   vertical-align: middle;
   position:absolute;
-  margin-top: 18%;
+  margin-bottom: 0;
 }
 
 
