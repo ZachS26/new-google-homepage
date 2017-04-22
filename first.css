@@ -20,16 +20,56 @@ padding: .5em;
   margin-top: 15%;
 }
 .button{
-  height: 8em;
+  height: 4em;
   width: 16em;
   background-color: lightgrey;
   margin-right: 1em;
-  margin-top: 5%;
+  margin-top: 2%;
   display: inline;
-  font-size: .5em;
-  padding: 1em 8em 1em 8em;
+}
+
+.bigdiv{
+  position: relative;
+  margin-bottom: 0;
 
 }
-.button-text{
-  margin-top: 4%;
+.footer{
+  width:100%;
+  background-color: lightgrey;
+  height: 3em;
+  vertical-align: middle;
+  position:absolute;
+  margin-top: 18%;
+}
+
+
+ .firstListContainer li{
+float:left;
+ margin-right:.5em;
+ }
+ .secondListContainer li{
+   margin-right:.5em;
+   float: right;
+
+ }
+ .firstListContainer li a{
+text-decoration: none;
+color: black;
+
+}
+.secondListContainer li a{
+  text-decoration: none;
+  color:black;
+
+}
+ul{
+  list-style-type: none;
+}
+.firstListContainer li a:hover{
+  text-decoration: underline;
+  color: darkgrey;
+}
+.secondListContainer li a:hover{
+  text-decoration: underline;
+  color: darkgrey;
 }
