@@ -30,6 +30,7 @@ padding: .5em;
 .bigdiv{
   position: relative;
   margin-bottom: 0;
+ vertical-align: bottom;
 
 }
 .footer{
@@ -38,7 +39,6 @@ padding: .5em;
   height: 3em;
   vertical-align: middle;
   position:absolute;
-  margin-top: 0;
 }
 
 
