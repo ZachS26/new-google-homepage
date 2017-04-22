@@ -39,7 +39,10 @@ padding: .5em;
   height: 3em;
   vertical-align: middle;
   position:absolute;
-  margin-top: 18%;
+  margin-bottom: 0;
+}
+html, body{
+ margin-bottom: 0;
 }
 
 
@@ -73,3 +76,4 @@ ul{
   text-decoration: underline;
   color: darkgrey;
 }
+
