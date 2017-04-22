@@ -1,0 +1,19 @@
+.navbar-container{
+  width: 100%;
+}
+ li{
+float: right;
+list-style-type: none;
+padding: 1em;
+}
+.navbarimage {
+
+}
+
+.navbartext{
+  text-decoration: none;
+  color: black;
+}
+.navbartext:hover{
+  text-decoration: underline;
+}
